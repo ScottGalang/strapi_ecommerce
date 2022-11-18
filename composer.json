@@ -1,0 +1,15 @@
+{
+    "name": "user/ipt10-strapi-ecommerce",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10StrapiEcommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clavory",
+            "email": "nathanielallapitan14@gmail.com"
+        }
+    ],
+    "require": {}
+}
